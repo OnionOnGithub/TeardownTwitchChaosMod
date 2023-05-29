@@ -1,17 +1,26 @@
 # TeardownTwitchChaosMod
 Twitch intergartion for teardown chaos mod
 
-If you follow these steps it might work 
+If you follow these steps it might work.
 
-step 1: download the files  
-step 2: drag the chaos mod file in the teardown mod folder 
-step 3: drag the other file anywhere you like (i think)
-step 4: you have to open the file with text editor or every other editor you like (not Paint3D)
-step 5: you have to change the USERNAME to your channel name
-step 6: you have to change the TOKEN to your twitch token (instructions in the file or at the almost buttom of the readme file)
-step 7: you have to change the CHANNEL to your your channel name (basiclly the same as your username for me)
-step 8: you have to change the path to mod to the path where the chaos mod is located(for me its C:my user\\Documents\\Teardown\\mods\\Chaos Mod Copy ) !!!! make sure to use double \\ 
-step 9: open teardown enable the mod and have fun, if you have any problems just comment them here and i will help you asap
+step 1: download the files.
+
+step 2: drag the chaos mod file in the teardown mod folder.
+
+step 3: drag the other file anywhere you like (i think).
+
+step 4: you have to open the file with text editor or every other editor you like (not Paint3D).
+
+step 5: you have to change the USERNAME to your channel name.
+
+step 6: you have to change the TOKEN to your twitch token (instructions in the file or at the almost buttom of the readme file).
+
+step 7: you have to change the CHANNEL to your your channel name (basiclly the same as your username for me).
+
+step 8: you have to change the path to mod to the path where the chaos mod is located(for me its C:my user\\Documents\\Teardown\\mods\\Chaos Mod Copy ) !!!! make sure to use double \\ .
+
+step 9: open teardown enable the mod and have fun, if you have any problems just comment them here and i will help you asap.
+
 
 To obtain your Twitch channel token, you can follow these steps:
 Go to the Twitch website (https://www.twitch.tv/) and log in to your Twitch account.
