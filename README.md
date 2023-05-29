@@ -1,7 +1,7 @@
 # TeardownTwitchChaosMod
 Twitch intergartion for teardown chaos mod
 
-If you follow these steps it might work.
+If you follow these steps it might work:
 
 step 1: download the files.
 
@@ -20,7 +20,7 @@ step 7: you have to change the CHANNEL to your your channel name (basiclly the s
 step 8: you have to change the path to mod to the path where the chaos mod is located(for me its C:my user\\Documents\\Teardown\\mods\\Chaos Mod Copy ) !!!! make sure to use double \\ .
 
 step 9: open teardown enable the mod and have fun, if you have any problems just comment them here and i will help you asap.
-
+.
 
 To obtain your Twitch channel token, you can follow these steps:
 
