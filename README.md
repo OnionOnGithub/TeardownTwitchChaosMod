@@ -17,7 +17,7 @@ step 6: you have to change the TOKEN to your twitch token (instructions in the f
 
 step 7: you have to change the CHANNEL to your your channel name (basiclly the same as your username for me).
 
-step 8: you have to change the path to mod to the path where the chaos mod is located(for me its C:my user\\Documents\\Teardown\\mods\\Chaos Mod Copy ) !!!! make sure to use double \\ .
+step 8: you have to change the path to mod to the path where the chaos mod is located`(for me its C:my user\\Documents\\Teardown\\mods\\Chaos Mod Copy ) !!!! make sure to use double \\ `
 
 step 9: Run the script in you fav code editor and make sure you have all add ons installed then enable the mod and have fun
  
