@@ -1,0 +1,71 @@
+Superfroggman:
+	Github: https://github.com/superfroggman
+    Steam: https://steamcommunity.com/id/Superfrogman
+    
+    Laser Vision (id: laserVision)
+    Enter Nearby Vehicle (id: setPlayerIntoRandomVehicle)
+    Let's Try That Again (id: rewind)
+    Explode Random Explosive (id: explodeRandomExplosive)
+    Feather Falling (id: featherFalling)
+    Who's there? (id: knocking)
+    Diggy Diggy Hole (id: diggydiggyhole)
+    Cinematic Mode (id: cinematicMode)
+    Hold On To That Tool (id: disableTools)
+    Invert Vehicle (id: flipVehicle)
+    Speed Limit (id: speedLimit)
+    Fake Teleport (id: fakeTeleport)
+    DVD Screensaver (id: dvdScreensaver)
+    Fake Delete Vehicle (id: fakeDeleteVehicle)
+    Enter Nearby Vehicle (id: setPlayerIntoRandomVehicle)
+    Lets Try That Again (id: rewind)
+
+der_baumkrieger:
+	Github: https://github.com/der-baumkrieger
+    Steam: https://steamcommunity.com/profiles/76561199083584422
+    
+    GTA 2 (id: birdPerspective)
+    Hope That Can Fly (id: objectFlyAway)
+    Low Gravity (id: lowgravity)
+    Explosive Punch (id: explosivePunch)
+    Useless Information (id: randomInformation)
+    Lose Something? (id: loseSomething)
+    Upgrade Random Explosive (id: opExplosive)
+    Glitch (id: glitch)
+    Blind (id: blind)
+	Spawn Random Object (id: randomSpawning)
+
+Snazzah:
+    Github: https://github.com/Snazzah
+    Steam: https://steamcommunity.com/id/Snazzah
+    
+	Quickload fix
+	
+    Disintegration Field (id: disintegrationField)
+    SUPERTEARDOWN (id: superhot)
+    Trigger Alarm (id: triggerAlarm)
+    Teleport to Random Target (id: teleportToTarget)
+    Teleport Random Target to Player (id: teleportTarget)
+    Ghost Cars (id: ghostCars)
+    Launch All Vehicles Up (id: launchAllVehicles)
+    Virtual Reality (id: virtualReality)
+    Flashbang (id: Flashbang)
+    Move or Die (id:  moveOrDie)
+    Pause Alarm (id:  pauseAlarm)
+    Disintegrate Vehicle (id:  disintegrateVehicle)
+    Blinding Lights (id:  blindingLights)
+    Blackout (id:  blackout)
+    Binoculars (id:  binoculars)
+    My W Key is Stuck (id:  keepGoingForward)
+    Bunnyhop (id:  keepJumping)
+    Freeze Frame (id:  freezeFrame)
+    UI & Exit Denial For Speed(id: dontStopDriving)
+
+The Mafia:
+	Steam: https://steamcommunity.com/profiles/76561198044940820/
+	
+	Spawn A Tank (id: spawnTank)
+	Spawn A Crane Truck (id: spawnCrane)
+	Spawn Griefer Robot (id: spawnAlarm)
+	Spawn Extreme Griefer Robot (id: spawnSpider)
+	Spawn Dock Handler (id: spawnDockHandler)
+	Spawn Terrorbyt (id: spawnTerrorbyte)
