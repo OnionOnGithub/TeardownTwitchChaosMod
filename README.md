@@ -3,7 +3,7 @@ Twitch intergartion for teardown chaos mod
 
 If you follow these steps it might work 
 
-step 1: download the files 
+step 1: download the files  
 step 2: drag the chaos mod file in the teardown mod folder 
 step 3: drag the other file anywhere you like (i think)
 step 4: you have to open the file with text editor or every other editor you like (not Paint3D)
