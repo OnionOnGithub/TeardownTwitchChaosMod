@@ -23,18 +23,31 @@ step 9: open teardown enable the mod and have fun, if you have any problems just
 
 
 To obtain your Twitch channel token, you can follow these steps:
+
+
 Go to the Twitch website (https://www.twitch.tv/) and log in to your Twitch account.
+
 Once logged in, click on your profile picture in the top-right corner of the screen.
+
 From the dropdown menu, select "Creator Dashboard."
+
 In the Creator Dashboard, click on the "Settings" tab on the left sidebar.
+
 Under the "Settings" tab, click on "Stream."
+
 Scroll down to the "Stream Key & Preferences" section.
+
 In the "Primary Stream Key" section, you will find your channel token. It is a unique alphanumeric string.
+
 Please note that your channel token is sensitive information that grants access to your Twitch channel. Keep it secure and avoid sharing it with others. If you suspect that your token has been compromised, 
+
 it is recommended to regenerate a new token for security purposes.
+
 
 Note this is not the most updated version of the chaos mod( i will update it soon)
 
+
 thanks to FerdiBerdiii,The Mafia,Snazzah and abide Dude
+
 without them chaos mod wouldnt be there
 <3
